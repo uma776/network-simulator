@@ -1,4 +1,4 @@
-# Star-Topology Network Simulator
+# Star-Topology Network Simulator ⭐
 ## Objective
 This project implements a simple network simulator which can perform single-hop network traffic between a main host and additional hosts only connected to the main host. I utilized abstract classes and interfaces given by my professor to guide this project. 
 
