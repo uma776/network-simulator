@@ -10,6 +10,6 @@ This project implements a simple network simulator which can perform single-hop 
 ## Tech Stack
 - Java, IntelliJ
 
-## Future plans
+## Future Plans
 - Java GUI to display the network actions
 - Implement a ring topology where each host is connected to 2 neighbor hosts: inbound and outbound. 
